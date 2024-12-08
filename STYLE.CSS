@@ -1,0 +1,91 @@
+*{
+    MARGIN:0;
+    PADDING:0
+}
+
+.HEADING{
+    BACKGROUND-COLOR:PINK;
+    PADDING:30PX;
+    TEXT-ALIGN:CENTER;
+
+    
+    
+}
+
+UL,LI{
+    DISPLAY:INLINE;
+    
+    
+   }
+   LI:HOVER{
+    CURSOR:POINTER;
+    COLOR:WHITE;
+   }
+   .one{
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    width:220px;
+    display:inline-block;
+    text-align:center;
+    margin-left:100px;
+    
+   }
+   .two{
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    width:220px;
+    display:inline-block;
+    text-align:center;
+    margin-left:100px;
+    
+    
+   }
+   .three{
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    width:220px;
+    display:inline-block;
+    text-align:center;
+    margin-left:100px;
+    
+    
+   }
+   .four{
+    border-style:solid;
+    border-width:3px;
+    border-color:black;
+    width:220px;
+    display:inline-block;
+    text-align:center;
+    margin-top:40px;
+    margin-left:100px;
+    
+    
+   }
+   .four:hover{
+    background-color:pink;
+    cursor:pointer;
+   }
+   .three:hover{
+    background-color:pink;
+    cursor:pointer;
+   }
+   .two:hover{
+    background-color:pink;
+    cursor:pointer;
+   }
+   .one:hover{
+    background-color:pink;
+    cursor:pointer;
+   }
+   .CONTACT{
+    background-color:pink;
+    padding:20px;
+    margin-top:20px;
+   }
+   
+   
+   
